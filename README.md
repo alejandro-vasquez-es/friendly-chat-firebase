@@ -10,4 +10,5 @@ In this application anyone can see all the messages and join in the conversation
 ![imagen](https://user-images.githubusercontent.com/77217577/189266219-88e6d746-20c6-4c52-b272-6bde334ff827.png)
 
 To make the application work, add the firebase-config.js file.
+
 To get the production version run the command `npm run start`
